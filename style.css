@@ -1,0 +1,48 @@
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: lightblue;
+    font-family: 'Poppins', sans-serif;;
+ 
+   
+}
+.container{
+    background-color: white;
+    text-align: center;
+ 
+    width: fit-content;
+    padding: 10px;
+    max-width: 360px;
+    border-radius: 10px;
+
+
+}
+.image{
+    width: 100%;
+
+    
+    border-radius: 10px;
+}
+.maintext{
+    
+    font-weight: 700;
+    color:  hsl(218, 44%, 22%);
+   
+
+}
+.maintext  h2{
+    padding: 10px;
+
+}
+p{
+    padding: 10px;
+    font-size: 14px;
+    color: hsl(212, 45%, 89%);
+
+
+  
+}
